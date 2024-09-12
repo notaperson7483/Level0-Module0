@@ -43,7 +43,7 @@ public class RobotDemo {
 		rob.setSpeed(10);
 		rob.miniaturize();
 		rob.penDown();
-		rob.setPenColor(Color.RED);
+		rob.setPenColor(Color.blue);
 		rob.sleep(1000);
 		int[] moves = new int[]{260, 150, 260, 150};
   
